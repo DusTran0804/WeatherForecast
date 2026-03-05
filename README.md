@@ -1,12 +1,12 @@
 # 🌦 Weather Forecast Prediction
 
-A Machine Learning project that predicts weather conditions using historical climate data.
+A simple Machine Learning project that predicts weather conditions using historical weather data.
 
 ## 📊 Project Overview
 
-This project analyzes weather data and builds a predictive model.
+This project analyzes weather data and builds a predictive model to forecast weather conditions.
 
-Main steps:
+Main steps in this project:
 
 - Data preprocessing
 - Exploratory Data Analysis (EDA)
@@ -15,13 +15,10 @@ Main steps:
 
 ## 📁 Project Structure
 
-```
-WeatherForecast
-│
-├── Weather_forecast.ipynb
-├── weather_forecast_data.csv
-└── README.md
-```
+WeatherForecast/
+- Weather_forecast.ipynb
+- weather_forecast_data.csv
+- README.md
 
 ## 🛠 Technologies Used
 
@@ -40,7 +37,7 @@ Clone the repository:
 git clone https://github.com/DusTran0804/WeatherForecast.git
 ```
 
-Run the notebook:
+Open the notebook:
 
 ```
 jupyter notebook Weather_forecast.ipynb
