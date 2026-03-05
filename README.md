@@ -15,10 +15,13 @@ Main steps in this project:
 
 ## 📁 Project Structure
 
+```
 WeatherForecast/
-- Weather_forecast.ipynb
-- weather_forecast_data.csv
-- README.md
+│
+├── Weather_forecast.ipynb
+├── weather_forecast_data.csv
+└── README.md
+```
 
 ## 🛠 Technologies Used
 
@@ -33,12 +36,12 @@ WeatherForecast/
 
 Clone the repository:
 
-```
+```bash
 git clone https://github.com/DusTran0804/WeatherForecast.git
 ```
 
 Open the notebook:
 
-```
+```bash
 jupyter notebook Weather_forecast.ipynb
 ```
