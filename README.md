@@ -30,5 +30,5 @@ WeatherForecast/
 - NumPy
 - Matplotlib
 - Scikit-learn
-- Jupyter Notebook
+
 
